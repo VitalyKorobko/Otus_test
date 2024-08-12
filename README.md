@@ -1,2 +1,4 @@
 # Otus_test
-homework
+ФИО: Коробко Виталий Николаевич;
+группа: 2024-07-otus-spring; дз1: homework_1
+
